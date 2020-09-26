@@ -40,7 +40,7 @@
 			        		<div class="alert alert-error hide">
 								  <button type="button" class="close" data-dismiss="alert">&times;</button>
 								  <h4>Error!</h4>
-								   Your Error Message goes here
+								   Your Error Message goes here  gv
 							</div>
 			        		<div action="#" method="get" style="text-align:center;">
                                 <h2 class="text-center">CSE Department (Admin)</h2><br />
